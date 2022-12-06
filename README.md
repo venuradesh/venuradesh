@@ -11,7 +11,10 @@
 - ❓ Ask me about anything related to JavaScript, ReactJs, NodeJs  
   
 
-- ⚡I like to code.. code.. & code..😂😂  
+- ⚡I like to code.. code.. & code..😂😂 
+
+
+- 🥅 2022 Goals: Learn React Native and Occupy an Internship
   
 
 <br/>  
