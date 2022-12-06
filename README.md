@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQFz3sPNGuJl_A/profile-displaybackgroundimage-shrink_350_1400/0/1657688660303?e=1675900800&v=beta&t=MgpWddOn-NeLKggMLjtDE8Jk1yWxxH4fvDYpnkSUBFA" align="center" style="width: 100%" />
-</div>  
-  
-
-## **<div align="center">Hi 👋 I'm Venura Warnasooriya</div>** 
+# **<div align="center">Hi 👋 I'm Venura Warnasooriya</div>** 
 ### **<div align="center">a full-time full-stack freelance developer 👨‍💻🚀</div>**  
 <br/>
 
