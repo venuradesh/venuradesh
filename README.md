@@ -14,7 +14,7 @@
 - ⚡I like to code.. code.. & code..😂😂 
 
 
-- 🥅 2023 Goals: Learn React Native and Occupy an Internship
+- 🥅 2023 Goals: Learn React Native and Blockchain Technology
   
 
 <br/>  
