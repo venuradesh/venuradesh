@@ -102,7 +102,7 @@
 
 <div>
 	<img src="https://github-readme-stats.vercel.app/api?username=venuradesh&show_icons=true&count_private=true&hide_border=true" align="top" /> 
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venuradesh&hide=Procfile" align="top" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venuradesh&hide=Handlebars,Procfile" align="top" />
 </div>
 	<br/>   
 
