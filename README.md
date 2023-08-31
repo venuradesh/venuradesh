@@ -1,5 +1,5 @@
 # **<div align="center">Hi 👋 I'm Venura Warnasooriya</div>** 
-### **<div align="center">a full-time full-stack freelance developer 👨‍💻🚀</div>**  
+### **<div align="center">Full Stack Developer | Software Engineer Intern at Gazeru (Pvt) Ltd. 👨‍💻🚀</div>**  
 <br/>
 
 - 🔭 I’m currently working on [My Personal Portfolio](https://github.com/venuradesh/venura-portfolio.git)  
