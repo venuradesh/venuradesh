@@ -5,16 +5,16 @@
 - 🔭 I’m currently working on [My Personal Portfolio](https://github.com/venuradesh/venura-portfolio.git)  
   
 
-- 🌱 I’m currently learning React Native, Angular Js, Python  
+- 🌱 I’m currently learning Angular Js, Python  
   
 
-- ❓ Ask me about anything related to JavaScript, ReactJs, NodeJs  
+- ❓ Ask me about anything related to JavaScript, ReactJs, Angular, NodeJs, Python  
   
 
 - ⚡I like to code.. code.. & code..😂😂 
 
 
-- 🥅 2023 Goals: Learn React Native and Blockchain Technology
+- 🥅 2023 Goals: Learn more and more about AI
   
 
 <br/>  
